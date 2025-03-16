@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a **Web Developer**, passionate about creating
 
 ## 💻 Tech Stack  
 
-- **Languages:** JavaScript, Java, HTML, CSS  
+- **Languages:** JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** React, Bootstrap, Sass  
 - **Tools & Platforms:** Git, GitHub, NPM  
 
