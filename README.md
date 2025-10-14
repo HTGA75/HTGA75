@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi, I'm Harshit Gupta 👋</h1>
 
-<p align="center"><b>I build fast, accessible full‑stack apps</b><br> — React • Node • APIs • Cloud</p>
+<p align="center"><b>I build fast, accessible full‑stack apps</b><br/> — React • Node • APIs • Cloud</p>
 
 <p align="center">
   <a href="mailto:hg23750@gmail.com"><img src="https://img.shields.io/badge/Email-hg23750%40gmail.com-red?style=flat&logo=gmail" /></a>
@@ -31,7 +31,6 @@
 
 ---
 
-<!-- Keep existing sections with enhancements -->
 ## 🌟 About Me
 - 💻 2 years of coding experience with 100+ projects completed
 - 🚀 Passionate about code and efficient digital solutions
@@ -41,18 +40,11 @@
 ## 💻 Tech Stack
 - Frontend: React, HTML/CSS
 - Backend: Node, APIs
-- Full-Stack Projects
-- Responsive & Accessible Design
-- Scalable & Maintainable Code
-- Performance Optimization
-- Project Management
 
----
+## 📈 GitHub Activity Graph
 
-## 🔧 Quick Summary
-| Category | Tools |
-|---|---|
-| Languages | JavaScript, TypeScript, Python, HTML, CSS |
-| IDE/Editors | VS Code, Cursor |
-| Frontend | React, Next.js, Tailwind CSS |
-| Backend | Node.js, REST APIs |
+![Harshit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HTGA75&theme=github-compact)
+
+## 🏆 GitHub Profile Trophy
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=HTGA75&row=1&column=7&margin-w=15&theme=github)
