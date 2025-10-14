@@ -7,30 +7,10 @@
 
 ---
 
-## 🎓 Education
-- **B.Sc in Applied AI and Data Science**  
-  Indian Institute of Technology (IIT) Jodhpur (2025–Present)  
-  First Year Student
-
----
-
-## 🧑‍💻 Profile Summary
-Passionate first-year student with a solid foundation in software development and web technologies. Hands-on experience building scalable, accessible, and performance-oriented applications. Adept at translating concepts into real-world projects that deliver tangible results.
-
----
-
 ## 🛠️ Skills
 - **Programming:** HTML, CSS, JavaScript, React, Python, TypeScript, Tailwind CSS, Next.js
 - **Development:** Frontend (React, HTML/CSS), Backend (Node.js, APIs), Full-Stack Projects
 - **Other:** Responsive & Accessible Design, Scalable & Maintainable Code, Performance Optimization, Project Management
-
----
-
-## 🚀 Projects
-- **StoreIt Cloud Storage App:** Developed a Google Drive-like full-stack application for secure, accessible cloud storage.
-- **AI Resume Analyzer:** Built a resume analysis tool integrating advanced AI capabilities.
-- **Chef Claude Tenzies Game:** Created interactive, dynamic web applications demonstrating practical React skills.
-- **Amazon Clone:** Built a fully functional e-commerce clone beyond tutorial level, reinforcing HTML/CSS/JS expertise.
 
 ---
 
