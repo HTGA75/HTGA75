@@ -1,5 +1,5 @@
 # Hi there, I'm Harshit Gupta! 👋
-Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **First-Year B.Sc Student in Applied AI and Data Science at IIT Jodhpur**, passionate about building scalable, accessible, and performance-oriented applications. 🚀
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about building scalable, accessible, and performance-oriented applications. 🚀
 
 ---
 
@@ -14,23 +14,25 @@ First-year student passionate about software development with a strong foundatio
 ---
 
 ## 💻 Tech Stack
-**Programming Languages:**  
-HTML, CSS, JavaScript, Python, TypeScript
 
-**Frameworks & Libraries:**  
-React, Next.js, Tailwind CSS, Node.js
+**Programming Languages:**
+  HTML, CSS, JavaScript, Python, TypeScript
 
-**Development Focus:**  
-- Frontend: React, HTML/CSS
-- Backend: Node, APIs
-- Full-Stack Projects
-- Responsive & Accessible Design
-- Scalable & Maintainable Code
-- Performance Optimization
-- Project Management
+**Frameworks & Libraries:**
+  React, Next.js, Tailwind CSS, Node.js
+
+**Development Focus:**
+  - Frontend: React, HTML/CSS
+  - Backend: Node, APIs
+  - Full-Stack Projects
+  - Responsive & Accessible Design
+  - Scalable & Maintainable Code
+  - Performance Optimization
+  - Project Management
 
 ---
 
 ## 🚀 Featured Projects
+
 ### 🗂️ **StoreIt - Cloud Storage App**
 Developed a Google Drive-like full-stack application for secure, accessible cloud storage.
