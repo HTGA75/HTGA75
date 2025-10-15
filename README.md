@@ -1,34 +1,41 @@
-# Harshit Gupta
+# 👋 Hey there, I'm building the web
 
-**Email:** hg23750@gmail.com  
-**Location:** India  
-**GitHub:** [github.com/HTGA75](https://github.com/HTGA75)  
-**LinkedIn:** [linkedin.com/in/htga](https://linkedin.com/in/htga)
+I'm a first-year student diving deep into full-stack development, turning ideas into functional applications that people can actually use. Currently exploring the intersection of AI and web technologies while studying Applied AI and Data Science.
+
+## 🛠️ Tech I Work With
+
+```javascript
+const techStack = {
+  frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
+  backend: ['Node.js', 'APIs', 'Appwrite'],
+  languages: ['JavaScript', 'Python', 'TypeScript'],
+  focus: ['Accessibility', 'Performance', 'Scalable Architecture']
+}
+```
+
+## 💡 Current Focus
+
+- Building production-ready full-stack applications
+- Exploring AI integration in web apps
+- Optimizing for performance and accessibility
+- Learning advanced React patterns and state management
+
+## 📈 My Approach
+
+I don't just complete tutorials — I extend them, break them, and rebuild them better. Every project is an opportunity to push beyond the basics and understand the "why" behind the code.
+
+**100+ projects** → Real learning comes from doing  
+**2 years** → Consistent growth and iteration  
+**Full-stack mindset** → From UI polish to backend architecture
+
+## 🌱 Learning Journey
+
+Started with HTML, CSS, and vanilla JavaScript fundamentals. Progressed through React and modern frontend development. Now building complete full-stack applications with real-world features like authentication, file storage, and AI integrations.
+
+## 🤝 Let's Connect
+
+Always open to collaborating on interesting projects, discussing tech, or helping fellow developers. Feel free to explore my repositories and reach out if something catches your eye!
 
 ---
 
-## 🛠️ Skills
-- **Programming:** HTML, CSS, JavaScript, React, Python, TypeScript, Tailwind CSS, Next.js
-- **Development:** Frontend (React, HTML/CSS), Backend (Node.js, APIs), Full-Stack Projects
-- **Other:** Responsive & Accessible Design, Scalable & Maintainable Code, Performance Optimization, Project Management
-
----
-
-## 📈 Experience
-- **Frontend Foundations:** Mastered core web tech through FreeCodeCamp & SuperSimpleDev (2024)
-- **React Developer Projects:** Progressed from basics to SPA development (2024–2025)
-- **Advanced Full-Stack Problem Solving:** Built robust end-to-end applications (StoreIt, AI Resume Analyzer; 2025–Present)
-
----
-
-## 🌟 Key Qualities
-- Passion for code and efficient digital solutions
-- 2 years coding experience, 100+ projects completed
-- Collaborative, open to new ideas, and eager to take on challenges
-
----
-
-## 🌐 Socials
-- **Twitter:** [hg23750](https://twitter.com/hg23750)
-- **LinkedIn:** [linkedin.com/in/htga](https://linkedin.com/in/htga)
-- **GitHub:** [github.com/HTGA75](https://github.com/HTGA75)
+*"Code is not just about making things work—it's about making them work well."*
